@@ -1,0 +1,6 @@
+#!/bin/bash
+cat input/table.txt \
+    | circos-tableviewer-parse-table -conf etc/parse-table.conf \
+    | circos-tableviewer-make-conf -dir data
+circos -conf etc/circos.conf -outputfile table.png \
+    | grep created
