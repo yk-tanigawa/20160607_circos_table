@@ -1,0 +1,6 @@
+chr - AAA AAA 0 12 coloraaa
+chr - AAC AAC 0 15 coloraac
+chr - AAG AAG 0 18 coloraag
+chr - CCA CCA 0 6 colorcca
+chr - CCC CCC 0 15 colorccc
+chr - CCG CCG 0 24 colorccg
